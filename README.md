@@ -125,3 +125,6 @@ B.Tech CSE Student
 ## License
 
 This project is open-source and free to use.
+
+<img width="927" height="618" alt="Sudoku Solver output" src="https://github.com/user-attachments/assets/7352a520-eb00-44de-ad7f-dfdcb555a4a2" />
+
